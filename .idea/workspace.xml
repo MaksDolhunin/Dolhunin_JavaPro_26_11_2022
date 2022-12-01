@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb3d6a6e-72c2-4d8c-9d4b-200644f0bbbc" name="Changes" comment="h/w 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fb3d6a6e-72c2-4d8c-9d4b-200644f0bbbc" name="Changes" comment="h/w 3">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework3/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework3/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669892292182</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="h/w 3">
+      <created>1669896809943</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669896809943</updated>
+    </task>
+    <task id="LOCAL-00005" summary="h/w 3">
+      <created>1669896985131</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669896985131</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,7 +140,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="h/w 1" />
     <MESSAGE value="h/w 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="h/w 2" />
+    <MESSAGE value="h/w 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="h/w 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Dolhunin_JavaPro_26_11_2022$com_hillel_dolhunin_homework_homework3_Main.ic" NAME="com.hillel.dolhunin.homework.homework3.Main Coverage Results" MODIFIED="1669896313594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

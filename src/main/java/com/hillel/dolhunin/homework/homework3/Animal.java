@@ -20,5 +20,6 @@ public class Animal {
         } else {
             System.out.println("Тварина не пливе");
         }
+    }
 
 }
