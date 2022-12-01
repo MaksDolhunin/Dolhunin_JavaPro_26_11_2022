@@ -15,7 +15,10 @@ public class Animal {
     }
 
     void swim(int distance) {
-        System.out.println("Тварина плаває");
-    }
+        if (distance > 0) {
+            System.out.println("Тварина пливе");
+        } else {
+            System.out.println("Тварина не пливе");
+        }
 
 }
