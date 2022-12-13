@@ -21,7 +21,7 @@ public class Main {
 
         while (true) {
             System.out.print("Введіть слово (0 exit): ");
-            word = scanner.nextLine();
+            word = scanner.nextLine().toLowerCase();
             if (word.equals("0")) {
                 break;
             }
