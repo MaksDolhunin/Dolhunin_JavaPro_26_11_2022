@@ -12,17 +12,21 @@ public class Main {
         String[] words = {"apple", "orange", "lemon", "banana", "apricot", "avocado", "broccoli", "carrot", "cherry", "garlic", "grape", "melon", "leak", "kiwi", "mango", "mushroom", "nut", "olive", "pea", "peanut", "pear", "pepper", "pineapple", "pumpkin", "potato"};
         System.out.println(Arrays.toString(words));
         int number = random.nextInt(words.length);
-        System.out.println(words[number]);
         System.out.println("Програма загадала слово, вгадайте його!");
         char[] wordCharArray = words[number].toCharArray();
-        char[] chCmp = new char[16];
+        char[] chWork = new char[16];
         for (int i = 0; i < 16; i++) {
-            chCmp[i] = '#';
+            chWork[i] = '#';
         }
 
+        scanner.nextLine(); // Зачистка кєшу "\n" після 14го рядка
+
         while (true) {
-            System.out.print("Введіть слово: ");
+            System.out.print("Введіть слово (0 exit): ");
             word = scanner.nextLine();
+            if (word.equals("0")) {
+                break;
+            }
             if (word.equals(words[number])) {
                 System.out.println("Ви вгадали");
                 break;
@@ -35,10 +39,10 @@ public class Main {
                         break;
                     }
                     if (wordCharArray[i] == chWord[i]) {
-                        chCmp[i] = wordCharArray[i];
+                        chWork[i] = wordCharArray[i];
                     }
                 }
-                System.out.println(String.valueOf(chCmp));
+                System.out.println(String.valueOf(chWork));
             }
         }
     }
