@@ -19,8 +19,6 @@ public class Main {
             chWork[i] = '#';
         }
 
-        scanner.nextLine(); // Зачистка кєшу "\n" після 14го рядка
-
         while (true) {
             System.out.print("Введіть слово (0 exit): ");
             word = scanner.nextLine();
