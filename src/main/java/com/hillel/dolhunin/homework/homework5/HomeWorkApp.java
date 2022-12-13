@@ -49,11 +49,7 @@ public class HomeWorkApp {
     }
 
     public static boolean printSum(int a, int b) {
-        if ((a + b) >= 10 && (a + b) <= 20) {
-            return true;
-        } else {
-            return false;
-        }
+        return  (a + b) >= 10 && (a + b) <= 20 ? true : false;
     }
 
     public static void printValue(int value) {
@@ -66,11 +62,7 @@ public class HomeWorkApp {
 
     public static boolean printPositiveOrNegative(int a) {
         // 0 вважатимемо позитивним числом
-        if (a < 0) {
-            return true;
-        } else {
-            return false;
-        }
+        return (a < 0) ? true : false;
     }
 
     public static void printString(String str, int numb) {
