@@ -33,7 +33,6 @@ public class Main {
             } else {
                 System.out.println("Ви не вгадали");
                 char[] chWord = word.toCharArray();
-
                 for (int i = 0; i < wordCharArray.length; i++) {
                     if (i >= chWord.length) {
                         break;
