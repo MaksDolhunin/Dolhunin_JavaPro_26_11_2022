@@ -49,10 +49,6 @@ public class ArrayValueCalculator {
             throw new ArraySizeException("Size is not correct");
         }
 
-        if (arr.length != 4) {
-            throw new ArraySizeException("Size is not correct");
-        }
-
         for (int i = 0; i < arr.length; i++) {
             if (arr[i].length != 4) {
                 throw new ArraySizeException("Size is not correct");
