@@ -27,11 +27,6 @@ public class Main {
             System.out.println( "Source: " + source + "\n" +
                                 "Target: " + target + "\n" +
                                 "Result: " + source.indexOf(target));
-
-        } else {
-            System.out.println( "Source: " + source + "\n" +
-                                "Target: " + target + "\n" +
-                                "Result: " + -1);
         }
     }
 

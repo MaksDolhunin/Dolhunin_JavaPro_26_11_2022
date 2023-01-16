@@ -8,7 +8,7 @@ public class Phonebook {
     private List<Record> records = new ArrayList<>();
 
     public void add(String name, String number){
-        records.add(new Record(name,number));
+        records.add(new Record(name, number));
     }
 
     public Record find(String name) {
