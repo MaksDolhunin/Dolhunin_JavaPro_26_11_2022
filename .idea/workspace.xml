@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb3d6a6e-72c2-4d8c-9d4b-200644f0bbbc" name="Changes" comment="h/w 9">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework14/coffeeOrder/CoffeeOrderBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework14/coffeeOrder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework14/coffeeOrder/Order.java" afterDir="false" />
+    <list default="true" id="fb3d6a6e-72c2-4d8c-9d4b-200644f0bbbc" name="Changes" comment="h/w 8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework15/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework15/ShakeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,39 +56,13 @@
       <recent name="C:\Users\Asus\Dolhunin_JavaPro_26_11_2022\src\main\java\com\hillel\dolhunin\homework\homework2\hw" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.com.hillel.dolhunin.homework.homework15.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hillel.dolhunin.homework.homework14.coffeeOrder.Main" />
       <module name="Dolhunin_JavaPro_26_11_2022" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hillel.dolhunin.homework.homework14.coffeeOrder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.hillel.dolhunin.homework.homework12.part1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hillel.dolhunin.homework.homework12.part1.Main" />
-      <module name="Dolhunin_JavaPro_26_11_2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hillel.dolhunin.homework.homework12.part1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.hillel.dolhunin.homework.homework12.phonebook.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hillel.dolhunin.homework.homework12.phonebook.Main" />
-      <module name="Dolhunin_JavaPro_26_11_2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hillel.dolhunin.homework.homework12.phonebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.hillel.dolhunin.homework.homework15.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hillel.dolhunin.homework.homework15.Main" />
+      <module name="Dolhunin_JavaPro_26_11_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hillel.dolhunin.homework.homework15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.hillel.dolhunin.homework.homework9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hillel.dolhunin.homework.homework9.Main" />
       <module name="Dolhunin_JavaPro_26_11_2022" />
@@ -122,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hillel.dolhunin.homework.homework15.test" />
+      <module name="Dolhunin_JavaPro_26_11_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hillel.dolhunin.homework.homework15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.hillel.dolhunin.homework.homework15.Main" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.hillel.dolhunin.homework.homework13.Main" />
         <item itemvalue="Application.com.hillel.dolhunin.homework.homework9.Main" />
-        <item itemvalue="Application.com.hillel.dolhunin.homework.homework12.phonebook.Main" />
-        <item itemvalue="Application.com.hillel.dolhunin.homework.homework12.part1.Main" />
       </list>
     </recent_temporary>
   </component>
