@@ -27,5 +27,7 @@ public class Main {
         box4.merge(box1);
         System.out.println(box4);
 
+        Number val = 5;
+
     }
 }

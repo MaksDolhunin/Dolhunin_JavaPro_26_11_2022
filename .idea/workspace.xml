@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb3d6a6e-72c2-4d8c-9d4b-200644f0bbbc" name="Changes" comment="h/w 16">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework17/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework17/task2/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework17/task2/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework17/task2/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework17/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework17/task2/Orange.java" afterDir="false" />
+    <list default="true" id="fb3d6a6e-72c2-4d8c-9d4b-200644f0bbbc" name="Changes" comment="h/w 17">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework18/ClassOfProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework18/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework18/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework18/TypeOfProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework18/TypeOfProductsException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework17/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework17/task2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -59,7 +60,7 @@
       <recent name="C:\Users\Asus\Dolhunin_JavaPro_26_11_2022\src\main\java\com\hillel\dolhunin\homework\homework2\hw" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.hillel.dolhunin.homework.homework17.task2.Main">
+  <component name="RunManager" selected="Application.com.hillel.dolhunin.homework.homework18.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hillel.dolhunin.homework.homework17.task1.Main" />
       <module name="Dolhunin_JavaPro_26_11_2022" />
@@ -79,19 +80,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hillel.dolhunin.homework.homework17.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.hillel.dolhunin.homework.homework10.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hillel.dolhunin.homework.homework10.task2.Main" />
-      <module name="Dolhunin_JavaPro_26_11_2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hillel.dolhunin.homework.homework10.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.hillel.dolhunin.homework.homework18.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hillel.dolhunin.homework.homework18.Main" />
+      <module name="Dolhunin_JavaPro_26_11_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hillel.dolhunin.homework.homework18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.hillel.dolhunin.homework.homework18.Main" />
         <item itemvalue="Application.com.hillel.dolhunin.homework.homework17.task2.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.com.hillel.dolhunin.homework.homework16.Main" />
-        <item itemvalue="Application.com.hillel.dolhunin.homework.homework10.task2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675697526763</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="h/w 17">
+      <created>1675755818320</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675755818320</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,7 +334,8 @@
     <MESSAGE value="h/w 15" />
     <MESSAGE value="h/w 10" />
     <MESSAGE value="h/w 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="h/w 16" />
+    <MESSAGE value="h/w 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="h/w 17" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Dolhunin_JavaPro_26_11_2022$com_hillel_dolhunin_homework_homework3_Main.ic" NAME="com.hillel.dolhunin.homework.homework3.Main Coverage Results" MODIFIED="1669896313594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
