@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb3d6a6e-72c2-4d8c-9d4b-200644f0bbbc" name="Changes" comment="h/w 20">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework20/java/com/hillel/homework20/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework20/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hillel/dolhunin/homework/homework20/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +66,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\Dolhunin_JavaPro_26_11_2022\src\main\java\com\hillel\dolhunin\homework\homework20\java\com\hillel\homework20" />
       <recent name="C:\Users\Asus\Dolhunin_JavaPro_26_11_2022\src\main\java\com\hillel\dolhunin\homework\homework2\hw" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Dolhunin_JavaPro_26_11_2022\src\main\java\com\hillel\dolhunin\homework\homework20" />
+      <recent name="C:\Users\Asus\Dolhunin_JavaPro_26_11_2022\src\main\java\com\hillel\dolhunin\homework\homework20\java" />
     </key>
   </component>
   <component name="RunManager" selected="Application.com.hillel.dolhunin.homework.homework19.Main">
@@ -352,7 +353,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677965838623</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="h/w 20">
+      <created>1677966453665</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1677966453665</updated>
+    </task>
+    <task id="LOCAL-00030" summary="h/w 20">
+      <created>1677966583230</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1677966583230</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
